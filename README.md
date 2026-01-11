@@ -36,12 +36,15 @@ The goal of this project is not styling or interactivity, but to:
   - Hero section (intro text + button)
 
   - Image section
-    
-
 > **Note**:   
 >No CSS or JavaScript is included.    
 This repository is strictly about HTML structure.
 
+## Page Preview
+
+Below is the reference design image that this HTML structure is based on:
+
+![preview](/design-preview.jpg)
 
 ## Intended Folder Structure
 
@@ -50,6 +53,6 @@ project-root/
 │
 ├── index.html
 ├── README.md
-└── preview.png
+└── design-preview
 ```
 
