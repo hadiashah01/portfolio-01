@@ -49,7 +49,7 @@ Below is the reference design image that this HTML structure is based on:
 ## Intended Folder Structure
 
 ```bash
-project-root/
+portfolio-01/
 │
 ├── index.html
 ├── README.md
