@@ -35,7 +35,7 @@ The goal of this project is not styling or interactivity, but to:
 
   - Hero section (intro text + button)
 
-  - Image section
+  - Image section  
 > **Note**:   
 >No CSS or JavaScript is included.    
 This repository is strictly about HTML structure.
@@ -44,7 +44,7 @@ This repository is strictly about HTML structure.
 
 Below is the reference design image that this HTML structure is based on:
 
-![preview](/design-preview.jpg)
+![preview](images/design-preview.jpg)
 
 ## Intended Folder Structure
 
@@ -53,6 +53,6 @@ portfolio-01/
 │
 ├── index.html
 ├── README.md
-└── design-preview
+└── images/
 ```
 
