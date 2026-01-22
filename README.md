@@ -36,7 +36,7 @@ The goal of this project is not styling or interactivity, but to:
   - Hero section (intro text + button)
 
   - Image section  
-> **Note**:   
+> [!NOTE]
 >No CSS or JavaScript is included.    
 This repository is strictly about HTML structure.
 
